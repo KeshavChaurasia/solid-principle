@@ -1,0 +1,11 @@
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\bin\Debug\netcoreapp2.1\dotnet.deps.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\bin\Debug\netcoreapp2.1\dotnet.runtimeconfig.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\bin\Debug\netcoreapp2.1\dotnet.runtimeconfig.dev.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\bin\Debug\netcoreapp2.1\dotnet.dll
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\bin\Debug\netcoreapp2.1\dotnet.pdb
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.csprojAssemblyReference.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.AssemblyInfoInputs.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.AssemblyInfo.cs
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.dll
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\obj\Debug\netcoreapp2.1\dotnet.pdb

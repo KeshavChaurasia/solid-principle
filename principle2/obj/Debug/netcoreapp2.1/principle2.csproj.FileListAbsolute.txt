@@ -1,0 +1,11 @@
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\bin\Debug\netcoreapp2.1\principle2.deps.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\bin\Debug\netcoreapp2.1\principle2.runtimeconfig.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\bin\Debug\netcoreapp2.1\principle2.runtimeconfig.dev.json
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\bin\Debug\netcoreapp2.1\principle2.dll
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\bin\Debug\netcoreapp2.1\principle2.pdb
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.csprojAssemblyReference.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.csproj.CoreCompileInputs.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.AssemblyInfoInputs.cache
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.AssemblyInfo.cs
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.dll
+C:\Users\KeshavChaurasia\Desktop\codes\dotnet\solidprinciple\principle2\obj\Debug\netcoreapp2.1\principle2.pdb
