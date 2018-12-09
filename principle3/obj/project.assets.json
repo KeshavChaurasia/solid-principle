@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle1\\dotnet.csproj",
-      "projectName": "dotnet",
-      "projectPath": "c:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle1\\dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle3\\principle3.csproj",
+      "projectName": "principle3",
+      "projectPath": "C:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle3\\principle3.csproj",
       "packagesPath": "C:\\Users\\KeshavChaurasia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle1\\obj\\",
+      "outputPath": "C:\\Users\\KeshavChaurasia\\Desktop\\codes\\dotnet\\solid-principle\\principle3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
