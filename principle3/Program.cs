@@ -5,6 +5,8 @@
 
 namespace principle3
 {
+    // we made the Width and Height virtual so that it can be overriden in the sub type and can be modified in a proper way
+    
     public class Rectangle
     {
         public virtual int Width{get;set;}
